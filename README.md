@@ -5,9 +5,10 @@ This code is an implementation of semantic segmentation based on the cityscapes 
 
 ## Dataset
 
-Cityscapes images where each image contains the actual image on the left and the masked image on the right. The citysapes data is split into Train and Validation. There are around 3000 training images and 500 validation images. You can download the data from here: [cityscapes images in kaggle] (!https://www.kaggle.com/dansbecker/cityscapes-image-pairs)
+Cityscapes images where each image contains the actual image on the left and the masked image on the right. The citysapes data is split into Train and Validation. There are around 3000 training images and 500 validation images. You can download the data from here: 
+![cityscapes images in kaggle](https://www.kaggle.com/dansbecker/cityscapes-image-pairs)
 
-![Images look like this] (https://github.com/azharul/semantic_segmentation/blob/master/sample_img.jpg)
+![Images look like this](https://github.com/azharul/semantic_segmentation/blob/master/sample_img.jpg)
 
 ## Implementation
 
