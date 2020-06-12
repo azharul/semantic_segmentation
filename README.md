@@ -1,5 +1,5 @@
 # Cityscapes semantic segmentation
-----
+
 This code is an implementation of semantic segmentation based on the cityscapes dataset.
 
 
