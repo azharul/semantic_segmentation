@@ -1,5 +1,5 @@
 # Cityscapes semantic segmentation
-
+----
 This code is an implementation of semantic segmentation based on the cityscapes dataset.
 
 
@@ -16,9 +16,12 @@ Here's a sample image
 ## Implementation
 
     1. It is implemented in google colab using GPUs
-    2. Implemented using Unet with skip connections (img not mine)
-    ![Unet](https://github.com/azharul/semantic_segmentation/blob/master/unet_img.jpg)
+    2. Implemented using Unet with skip connections 
     3. Cityscapes has many objects marked. Here, segmentation of streets were done only.
+
+Sample unet architecture (image collected from internet)
+
+![Unet](https://github.com/azharul/semantic_segmentation/blob/master/unet_img.jpg)
 
 ## Operations
 
